@@ -27,5 +27,8 @@
   "bugs": {
     "url": "https://github.com/another-guy/reactive-cache/issues"
   },
-  "homepage": "https://github.com/another-guy/reactive-cache#readme"
+  "homepage": "https://github.com/another-guy/reactive-cache#readme",
+  "dependencies": {
+    "rxjs": "^5.5.6"
+  }
 }
