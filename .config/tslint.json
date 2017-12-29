@@ -12,7 +12,9 @@
     "curly": [true, "ignore-same-line"],
     "object-literal-sort-keys": [false],
     "interface-name": [true, "never-prefix"],
-    "no-empty-interface": [false]
+    "no-empty-interface": [false],
+    "member-ordering": [false],
+    "variable-name": [true, "allow-leading-underscore"]
   },
   "rulesDirectory": []
 }
